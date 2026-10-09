@@ -116,43 +116,43 @@ AI agents that answer every customer in seconds on the website, Messenger and Wh
 
 | Product | What it does | Stack | Live |
 | :-- | :-- | :-- | :--: |
-| **[SKO Healthcare](https://github.com/skotechlabs/sko-healthcare)** | Multi-tenant healthcare SaaS for hospitals, clinics, pharmacies and labs | Laravel, PHP, MySQL, JavaScript | [Visit ↗](https://healthcare.skotechlabs.com) |
-| **[Nexora AI](https://github.com/skotechlabs/nexora-ai)** | AI business agent for website chat, Messenger and WhatsApp | Laravel, PHP, MySQL, Redis, Docker, JavaScript | [Visit ↗](https://aiagent1.skotechlabs.com) |
-| **[SKO POS](https://github.com/skotechlabs/sko-pos)** | Subscription point-of-sale and inventory platform with a database per shop | Laravel, React, PHP, MySQL, JavaScript | [Visit ↗](https://pos1.skotechlabs.com) |
-| **[SlotWise](https://github.com/skotechlabs/slotwise)** | Appointment booking SaaS for salons, clinics, studios and consultants | Laravel, PHP, MySQL, JavaScript | [Visit ↗](https://slotwise.skotechlabs.com) |
+| **[SKO Healthcare](https://github.com/skotechlabs/sko-healthcare)** | Multi-tenant healthcare SaaS for hospitals, clinics, pharmacies and labs | Laravel, PHP, MySQL, JavaScript | [Visit](https://healthcare.skotechlabs.com) |
+| **[Nexora AI](https://github.com/skotechlabs/nexora-ai)** | AI business agent for website chat, Messenger and WhatsApp | Laravel, PHP, MySQL, Redis, Docker, JavaScript | [Visit](https://aiagent1.skotechlabs.com) |
+| **[SKO POS](https://github.com/skotechlabs/sko-pos)** | Subscription point-of-sale and inventory platform with a database per shop | Laravel, React, PHP, MySQL, JavaScript | [Visit](https://pos1.skotechlabs.com) |
+| **[SlotWise](https://github.com/skotechlabs/slotwise)** | Appointment booking SaaS for salons, clinics, studios and consultants | Laravel, PHP, MySQL, JavaScript | [Visit](https://slotwise.skotechlabs.com) |
 
 ### Commerce
 
 | Product | What it does | Stack | Live |
 | :-- | :-- | :-- | :--: |
-| **[ShopNova](https://github.com/skotechlabs/shopnova)** | E-commerce platform and admin dashboard for Bangladesh-first brands | Laravel, PHP, MySQL, JavaScript | [Visit ↗](https://shopnova.skotechlabs.com) |
-| **[Resell](https://github.com/skotechlabs/resell)** | Reseller and dropshipping storefront with a live catalogue and reseller profit | Laravel, PHP, MySQL, JavaScript | [Visit ↗](https://reseller1.skotechlabs.com) |
-| **[SKO Shop](https://github.com/skotechlabs/sko-shop)** | Fashion e-commerce storefront with flash sales and phone-first checkout | Laravel, PHP, MySQL, JavaScript | [Visit ↗](https://ecommerce5.skotechlabs.com) |
-| **[E-Commerce Platform](https://github.com/skotechlabs/ecommerce-platform)** | Storefront and back office for a retail fashion brand | Laravel, React, PHP, MySQL, JavaScript | [Visit ↗](https://treindyoutfit.com/index.php) |
+| **[ShopNova](https://github.com/skotechlabs/shopnova)** | E-commerce platform and admin dashboard for Bangladesh-first brands | Laravel, PHP, MySQL, JavaScript | [Visit](https://shopnova.skotechlabs.com) |
+| **[Resell](https://github.com/skotechlabs/resell)** | Reseller and dropshipping storefront with a live catalogue and reseller profit | Laravel, PHP, MySQL, JavaScript | [Visit](https://reseller1.skotechlabs.com) |
+| **[SKO Shop](https://github.com/skotechlabs/sko-shop)** | Fashion e-commerce storefront with flash sales and phone-first checkout | Laravel, PHP, MySQL, JavaScript | [Visit](https://ecommerce5.skotechlabs.com) |
+| **[E-Commerce Platform](https://github.com/skotechlabs/ecommerce-platform)** | Storefront and back office for a retail fashion brand | Laravel, React, PHP, MySQL, JavaScript | [Visit](https://treindyoutfit.com/index.php) |
 
 ### Mobility & Delivery
 
 | Product | What it does | Stack | Live |
 | :-- | :-- | :-- | :--: |
-| **[Forkly](https://github.com/skotechlabs/forkly)** | Food ordering platform with customer, restaurant, rider and admin apps | Laravel, PHP, MySQL, Python, JavaScript | [Visit ↗](https://forkly.skotechlabs.com) |
-| **[Movra](https://github.com/skotechlabs/movra)** | Ride-hailing, parcel delivery and live GPS tracking platform | Laravel, PHP, MySQL, Android, JavaScript | [Visit ↗](https://movra.skotechlabs.com) |
-| **[SKO Courier](https://github.com/skotechlabs/sko-courier)** | Courier and parcel delivery platform with merchant onboarding and COD settlement | Laravel, PHP, MySQL, JavaScript | [Visit ↗](https://courier1.skotechlabs.com) |
+| **[Forkly](https://github.com/skotechlabs/forkly)** | Food ordering platform with customer, restaurant, rider and admin apps | Laravel, PHP, MySQL, Python, JavaScript | [Visit](https://forkly.skotechlabs.com) |
+| **[Movra](https://github.com/skotechlabs/movra)** | Ride-hailing, parcel delivery and live GPS tracking platform | Laravel, PHP, MySQL, Android, JavaScript | [Visit](https://movra.skotechlabs.com) |
+| **[SKO Courier](https://github.com/skotechlabs/sko-courier)** | Courier and parcel delivery platform with merchant onboarding and COD settlement | Laravel, PHP, MySQL, JavaScript | [Visit](https://courier1.skotechlabs.com) |
 
 ### Education
 
 | Product | What it does | Stack | Live |
 | :-- | :-- | :-- | :--: |
-| **[Pathshala](https://github.com/skotechlabs/pathshala)** | School management system with admissions, GPA results, fees and a guardian portal | Laravel, PHP, MySQL, JavaScript | [Visit ↗](https://pathshala.skotechlabs.com) |
-| **[Talim](https://github.com/skotechlabs/talim)** | Madrasa management system with hifz tracking, Qawmi results, boarding and donations | Laravel, PHP, MySQL, JavaScript | [Visit ↗](https://talim.skotechlabs.com) |
-| **[Lyceum](https://github.com/skotechlabs/lyceum)** | College management system for HSC and National University honours programmes | Laravel, PHP, MySQL, JavaScript | [Visit ↗](https://lyceum.skotechlabs.com) |
-| **[Nexus Elite](https://github.com/skotechlabs/nexus-elite)** | IELTS academy website, student area and CMS-driven admin platform | Laravel, PHP, MySQL, JavaScript | [Visit ↗](https://nexuselite.skotechlabs.com) |
+| **[Pathshala](https://github.com/skotechlabs/pathshala)** | School management system with admissions, GPA results, fees and a guardian portal | Laravel, PHP, MySQL, JavaScript | [Visit](https://pathshala.skotechlabs.com) |
+| **[Talim](https://github.com/skotechlabs/talim)** | Madrasa management system with hifz tracking, Qawmi results, boarding and donations | Laravel, PHP, MySQL, JavaScript | [Visit](https://talim.skotechlabs.com) |
+| **[Lyceum](https://github.com/skotechlabs/lyceum)** | College management system for HSC and National University honours programmes | Laravel, PHP, MySQL, JavaScript | [Visit](https://lyceum.skotechlabs.com) |
+| **[Nexus Elite](https://github.com/skotechlabs/nexus-elite)** | IELTS academy website, student area and CMS-driven admin platform | Laravel, PHP, MySQL, JavaScript | [Visit](https://nexuselite.skotechlabs.com) |
 
 ### Mobile Apps
 
 | Product | What it does | Stack | Live |
 | :-- | :-- | :-- | :--: |
-| **[Sakinah](https://github.com/skotechlabs/sakinah)** | Ad-free Islamic companion app: prayer times, Quran, hadith, duas and qibla | Laravel, PHP, MySQL, Android, JavaScript | [Visit ↗](https://sakinah.skotechlabs.com) |
-| **[MealHive](https://github.com/skotechlabs/mealhive)** | Mess meal, bazar and hisab manager with a live meal rate | Laravel, PHP, MySQL, Android, JavaScript | [Visit ↗](https://mealhive.skotechlabs.com) |
+| **[Sakinah](https://github.com/skotechlabs/sakinah)** | Ad-free Islamic companion app: prayer times, Quran, hadith, duas and qibla | Laravel, PHP, MySQL, Android, JavaScript | [Visit](https://sakinah.skotechlabs.com) |
+| **[MealHive](https://github.com/skotechlabs/mealhive)** | Mess meal, bazar and hisab manager with a live meal rate | Laravel, PHP, MySQL, Android, JavaScript | [Visit](https://mealhive.skotechlabs.com) |
 
 ## Technology We Work With
 
