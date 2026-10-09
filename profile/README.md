@@ -4,7 +4,7 @@
 
 <h3>We design, build and run software that businesses use every day.</h3>
 
-<a href="https://skotechlabs.com"><img src="https://img.shields.io/badge/Website-skotechlabs.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website: skotechlabs.com"></a>
+<a href="https://skotechlabs.com"><img src="https://img.shields.io/badge/Website-skotechlabs.com-0E4A4B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website: skotechlabs.com"></a>
 <a href="mailto:sko.techlabs@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Us-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: Contact Us"></a>
 <a href="https://wa.me/8801954547101"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp: Chat"></a>
 <a href="https://linkedin.com/company/skotechlabs"><img src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Follow"></a>
@@ -180,7 +180,7 @@ Fast, responsive websites and web applications built to perform, convert, and gr
 
 Tell us about your idea and our team will get back to you within one business day.
 
-<a href="https://skotechlabs.com/contact"><img src="https://img.shields.io/badge/Start_a_Project-skotechlabs.com%2Fcontact-7C3AED?style=for-the-badge&logo=rocket&logoColor=white" alt="Start a Project: skotechlabs.com/contact"></a>
+<a href="https://skotechlabs.com/contact"><img src="https://img.shields.io/badge/Start_a_Project-skotechlabs.com%2Fcontact-16A85A?style=for-the-badge&logo=rocket&logoColor=white" alt="Start a Project: skotechlabs.com/contact"></a>
 
 <sub>© 2026 SKO TechLabs · Dhaka, Bangladesh · <a href="mailto:sko.techlabs@gmail.com">sko.techlabs@gmail.com</a> · +8801954547101</sub>
 
