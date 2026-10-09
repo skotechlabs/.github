@@ -36,14 +36,14 @@ We work with startups, small and medium businesses and enterprise teams across *
 <tr>
 <td width="50%" valign="top">
 
-#### [Web Development](https://skotechlabs.com/services/web-development)
-Fast, responsive websites and web applications built to perform, convert, and grow with your business.
+#### [Custom Software Development](https://skotechlabs.com/services/custom-software-development)
+Systems that run the parts of your business spreadsheets cannot: POS, ERP, SaaS and management platforms.
 
 </td>
 <td width="50%" valign="top">
 
-#### [Custom Software Development](https://skotechlabs.com/services/custom-software-development)
-Systems that run the parts of your business spreadsheets cannot: POS, ERP, SaaS and management platforms.
+#### [AI Business Automation](https://skotechlabs.com/services/ai-business-automation)
+AI agents that answer every customer in seconds on the website, Messenger and WhatsApp, in Bangla, Banglish or English.
 
 </td>
 </tr>
@@ -56,8 +56,8 @@ Native-feeling Android apps backed by solid APIs and connected to powerful web d
 </td>
 <td width="50%" valign="top">
 
-#### [AI Business Automation](https://skotechlabs.com/services/ai-business-automation)
-AI agents that answer every customer in seconds on the website, Messenger and WhatsApp, in Bangla, Banglish or English.
+#### [Web Development](https://skotechlabs.com/services/web-development)
+Fast, responsive websites and web applications built to perform, convert, and grow with your business.
 
 </td>
 </tr>
