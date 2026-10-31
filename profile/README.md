@@ -23,7 +23,7 @@ We work with startups, small and medium businesses and enterprise teams across *
 
 <table>
 <tr>
-<td align="center" width="25%"><h2>17</h2><sub>Products live in production</sub></td>
+<td align="center" width="25%"><h2>26</h2><sub>Products live in production</sub></td>
 <td align="center" width="25%"><h2>4</h2><sub>Service lines</sub></td>
 <td align="center" width="25%"><h2>5</h2><sub>Industries served</sub></td>
 <td align="center" width="25%"><h2>Web + Android</h2><sub>Platforms we ship on</sub></td>
@@ -153,6 +153,30 @@ Fast, responsive websites and web applications built to perform, convert, and gr
 | :-- | :-- | :-- | :--: |
 | **[Sakinah](https://github.com/skotechlabs/sakinah)** | Ad-free Islamic companion app: prayer times, Quran, hadith, duas and qibla | Laravel, PHP, MySQL, Android, JavaScript | [Visit](https://sakinah.skotechlabs.com) |
 | **[MealHive](https://github.com/skotechlabs/mealhive)** | Mess meal, bazar and hisab manager with a live meal rate | Laravel, PHP, MySQL, Android, JavaScript | [Visit](https://mealhive.skotechlabs.com) |
+
+### AI & Automation
+
+| Product | What it does | Stack | Live |
+| :-- | :-- | :-- | :--: |
+| **[HireMind](https://github.com/skotechlabs/hiremind)** | AI recruitment platform that reads every CV and ranks candidates with evidence | Laravel, PHP, MySQL, JavaScript | [Visit](https://hiremind.skotechlabs.com) |
+| **[MarketMind](https://github.com/skotechlabs/marketmind)** | AI marketing employee that plans, writes and publishes campaigns across channels | Laravel, PHP, MySQL, JavaScript | [Visit](https://marketmind.skotechlabs.com) |
+| **[ManuscriptFlow](https://github.com/skotechlabs/manuscriptflow)** | Word to journal PDF, JATS XML and Crossref formatting for academic publishers | Python, JavaScript, Linux | [Visit](https://mflow.skotechlabs.com) |
+
+### Finance & Security
+
+| Product | What it does | Stack | Live |
+| :-- | :-- | :-- | :--: |
+| **[NetGuard](https://github.com/skotechlabs/netguard)** | Managed website care and monitoring with a client dashboard | Laravel, PHP, MySQL, JavaScript, Linux | [Visit](https://security.skotechlabs.com/login) |
+| **[Kisti Lock](https://github.com/skotechlabs/kisti-lock)** | Installment phone lock and collection system for mobile shops | Laravel, PHP, MySQL, Android, JavaScript, Kotlin | [Visit](https://kistilock.skotechlabs.com) |
+| **[Sadiba](https://github.com/skotechlabs/sadiba)** | Multi-business money transfer SaaS with customer Android app and admin panel | Laravel, PHP, MySQL, Android, JavaScript | [Visit](https://moneytransfer.skotechlabs.com) |
+| **[Samity Khata](https://github.com/skotechlabs/samity-khata)** | Savings and loan accounting SaaS for cooperatives, in Bangla | Laravel, PHP, MySQL, JavaScript | [Visit](https://samity.skotechlabs.com) |
+
+### Operations & Community
+
+| Product | What it does | Stack | Live |
+| :-- | :-- | :-- | :--: |
+| **[Karyalay](https://github.com/skotechlabs/karyalay)** | Bangla-first staff and customer management for travel and visa offices | Laravel, PHP, MySQL, Android, JavaScript | [Visit](https://karyalay.skotechlabs.com) |
+| **[ArenaRoom](https://github.com/skotechlabs/arenaroom)** | Free Fire tournament platform run from one Android phone | Laravel, PHP, MySQL, JavaScript | [Visit](https://arenaroom.skotechlabs.com) |
 
 ## Technology We Work With
 
